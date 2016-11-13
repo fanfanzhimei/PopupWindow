@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PopupWindow</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="str_open_popup_window">打开PopupWindow</string>
+</resources>
